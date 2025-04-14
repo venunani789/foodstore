@@ -30,3 +30,4 @@
 /Users/venukoduru/Projects/Microservices1/Microservices1/obj/Debug/net8.0/Microservices1.pdb
 /Users/venukoduru/Projects/Microservices1/Microservices1/obj/Debug/net8.0/Microservices1.genruntimeconfig.cache
 /Users/venukoduru/Projects/Microservices1/Microservices1/obj/Debug/net8.0/ref/Microservices1.dll
+/Users/venukoduru/Projects/Microservices1/Microservices1/obj/Debug/net8.0/Microservices1.sourcelink.json
